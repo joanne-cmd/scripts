@@ -10,6 +10,7 @@ check_update(){
         echo "System upates are available."
     else
         echo "Failed to check for updates"
+        echo hello
     fi
 }
 
